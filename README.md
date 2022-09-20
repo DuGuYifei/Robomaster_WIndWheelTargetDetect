@@ -1,5 +1,7 @@
 # Robomaster_WIndWheelTargetDetect
 
+![](windtarget.jpg)
+
 Display:https://www.bilibili.com/video/BV1tW4y1y7Zy?vd_source=6beebf17d5aa6fb3d9fb4b629d0b319a
 
 After watching DJI Robomaster match 2022, I realize this function which can detect the shoot target that changes in rotating wind wheel.
