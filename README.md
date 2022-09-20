@@ -2,7 +2,9 @@
 
 Display:https://www.bilibili.com/video/BV1tW4y1y7Zy?vd_source=6beebf17d5aa6fb3d9fb4b629d0b319a
 
-Robomaster match - use AI detect and recognize shoot target. Use openCV handle the image and train SVM.
+After watching DJI Robomaster match 2022, I realize this function which can detect the shoot target that changes in rotating wind wheel.
+
+Use AI detect and recognize shoot target. Use openCV handle the image and train SVM.
 
 1. Split BGR channels
 
